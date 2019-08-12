@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Custom structures</name>
+    </assembly>
+    <members>
+        <member name="T:Custom_structures.CustomList">
+            <summary>
+            Integer List
+            </summary>
+        </member>
+        <member name="F:Custom_structures.CustomList.defaultSize">
+            <summary>
+            Default size of array
+            </summary>
+        </member>
+        <member name="F:Custom_structures.CustomList.innerArr">
+            <summary>
+            internal array
+            </summary>
+        </member>
+        <member name="M:Custom_structures.CustomList.#ctor">
+            <summary>
+            Creates custom integer list with default size
+            </summary>
+        </member>
+        <member name="M:Custom_structures.CustomList.#ctor(System.Int32)">
+            <summary>
+            Creates custom integer list with initial size
+            </summary>
+            <param name="initialSize">Initial size
+            of the list</param>
+        </member>
+    </members>
+</doc>
