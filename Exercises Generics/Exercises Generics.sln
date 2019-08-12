@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericBoxOfString", "GenericBoxOfString\GenericBoxOfString.csproj", "{D04CE172-14F0-49D9-B21F-4E0F4F906888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "Tuple\Tuple.csproj", "{BC633DA3-8C2A-49FF-9527-A06BC2C2BF48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D04CE172-14F0-49D9-B21F-4E0F4F906888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04CE172-14F0-49D9-B21F-4E0F4F906888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04CE172-14F0-49D9-B21F-4E0F4F906888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04CE172-14F0-49D9-B21F-4E0F4F906888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC633DA3-8C2A-49FF-9527-A06BC2C2BF48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC633DA3-8C2A-49FF-9527-A06BC2C2BF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC633DA3-8C2A-49FF-9527-A06BC2C2BF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC633DA3-8C2A-49FF-9527-A06BC2C2BF48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20F35DAA-8B9D-427D-9AC0-0C271F0D79E9}
+	EndGlobalSection
+EndGlobal
